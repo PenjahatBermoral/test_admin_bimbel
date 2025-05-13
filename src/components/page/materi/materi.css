@@ -1,0 +1,13 @@
+.materi{
+    width: 100;
+    margin-bottom: 18px;
+}
+.materi .materi-header{
+    width: 100%;
+    padding: 10px;
+    color:white;
+}
+.materi .materi-body{
+    padding: 10px;
+    background-color: white;
+}
